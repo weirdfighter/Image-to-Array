@@ -1,1 +1,1 @@
-# Image-to-Array
+It is the first project done in Datascience. Take Image as input and displaying it's array. then changing the parameters of array and displaying Image variations. here using numpy and matplotlib packages. also use PIL for reading image
